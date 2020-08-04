@@ -1,6 +1,6 @@
 # Huong-dan-su-phan-mem
 
-
+Đề Tài: QUẢN LÝ NHÂN VIÊN BÁN HÀNG TẠI CỬA HÀNG THẾ GIỚI DI ĐỘNG
 
 B1: Đăng nhập vào hệ thống.
 Hệ thống quản lý nhân viên bán hàng tại cửa hàng điện thoại sẽ được phân tán theo 2 server. Vì vậy trước khi đăng nhập
